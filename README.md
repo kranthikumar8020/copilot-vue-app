@@ -1,6 +1,7 @@
 # copilot-vue-app
 
 ## Project setup
+
 ```
 npm install
 ```
@@ -22,3 +23,5 @@ npm run lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+=======
+>>>>>>> 39988afe0cb8d7a8817de3ec1354ce21b9c63a89
