@@ -4,6 +4,7 @@
     <ul>
       <li v-for="client in clients" :key="client.id">
   {{ client.givenName }} {{ client.familyName }} – {{ client.email }}<br />
+  <strong>Client ID:</strong> {{ client.id }}<br />
   <strong>Company ID:</strong> {{ client.companyId }}<br><br />
 </li>
     </ul>
