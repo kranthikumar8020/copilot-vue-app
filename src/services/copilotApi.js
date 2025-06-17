@@ -13,7 +13,7 @@
 import axios from 'axios';
 
 const api = axios.create({
-  baseURL: '/api', // no localhost/port — this works in Vercel
+  baseURL: '/api',
 });
 
 export function getClients() {
